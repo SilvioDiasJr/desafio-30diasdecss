@@ -19,6 +19,7 @@
 
 
 * [Dia 01 - Widget de mídia social](#id01)
+* [Dia 02 - Menu responsivo](#id02)
 
 
 
@@ -30,4 +31,14 @@
 
 
 [Post LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:6762568415031922688/) 
+
+
+
+![Dia 02](https://github.com/SilvioDiasJr/desafio-30diasdecss/blob/master/Desafios/Dia%2002/menu-responsivo.gif)
+
+
+[Meu codigo](https://github.com/SilvioDiasJr/desafio-30diasdecss/tree/master/Desafios/Dia%2002)
+
+
+[Post LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:6762848236718833664/) 
 
