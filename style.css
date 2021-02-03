@@ -140,6 +140,7 @@ html, body{
 
   .content-info{
     grid-template-columns: 1fr;
+    grid-gap: 20px;
   }
 
   .projects-list img{
