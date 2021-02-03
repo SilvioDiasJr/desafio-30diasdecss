@@ -119,7 +119,7 @@ html, body{
 }
 
 .projects-list img{
-  width: 600px;
+  width: 700px;
   height: auto;
 }
 
@@ -138,8 +138,12 @@ html, body{
     font-size: 20px;
   }
 
+  .content-info{
+    grid-template-columns: 1fr;
+  }
+
   .projects-list img{
-    max-width: 300px;
+    max-width: 320px;
     height: auto;
   }
 }
