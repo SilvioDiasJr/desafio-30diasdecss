@@ -20,6 +20,7 @@
 
 * [Dia 01 - Widget de mídia social](#id01)
 * [Dia 02 - Menu responsivo](#id02)
+* [Dia 03 - Texto 3D animado](#id03)
 
 
 
@@ -41,4 +42,14 @@
 
 
 [Post LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:6762848236718833664/) 
+
+
+##  Desafio dia 03 - Texto 3D animado<a name="id03"></a>
+![Dia 03](https://github.com/SilvioDiasJr/desafio-30diasdecss/blob/master/Desafios/Dia%2003/texto-animado.gif)
+
+
+[Meu codigo](https://github.com/SilvioDiasJr/desafio-30diasdecss/tree/master/Desafios/Dia%2003)
+
+
+[Post LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:6763197776223338496/) 
 
