@@ -21,6 +21,7 @@
 * [Dia 01 - Widget de mídia social](#id01)
 * [Dia 02 - Menu responsivo](#id02)
 * [Dia 03 - Texto 3D animado](#id03)
+* [Dia 04 - Card com efeito e glassmorphism](#id04)
 
 
 
@@ -52,4 +53,14 @@
 
 
 [Post LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:6763197776223338496/) 
+
+
+##  Desafio dia 04 - Card com efeito e glassmorphism<a name="id04"></a>
+![Dia 04](https://github.com/SilvioDiasJr/desafio-30diasdecss/blob/master/Desafios/Dia%2004/card%20e%20glassmorphism.gif)
+
+
+[Meu codigo](https://github.com/SilvioDiasJr/desafio-30diasdecss/tree/master/Desafios/Dia%2004)
+
+
+[Post LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:6763565759630192640/) 
 
