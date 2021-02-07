@@ -64,3 +64,23 @@
 
 [Post LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:6763565759630192640/) 
 
+
+##  Desafio dia 05 - Menu tela inteira e responsivo<a name="id5"></a>
+![Dia 04](https://github.com/SilvioDiasJr/desafio-30diasdecss/blob/master/Desafios/Dia%2005/menu-tela-inteira.gif)
+
+
+[Meu codigo](https://github.com/SilvioDiasJr/desafio-30diasdecss/tree/master/Desafios/Dia%2005)
+
+
+[Post LinkedIn](https://www.linkedin.com/posts/silviodiasjr_30diasdecss-activity-6764013552417173504-_PFz) 
+
+
+##  Desafio dia 06 - Toggle button<a name="id6"></a>
+![Dia 04](https://github.com/SilvioDiasJr/desafio-30diasdecss/blob/master/Desafios/Dia%2006/checkbox-animado.gif)
+
+
+[Meu codigo](https://github.com/SilvioDiasJr/desafio-30diasdecss/tree/master/Desafios/Dia%2006)
+
+
+[Post LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:6764312795648401409/) 
+
