@@ -22,6 +22,8 @@
 * [Dia 02 - Menu responsivo](#id02)
 * [Dia 03 - Texto 3D animado](#id03)
 * [Dia 04 - Card com efeito e glassmorphism](#id04)
+* [Dia 05 - Menu tela inteira e responsivo](#id05)
+* [Dia 06 - Toggle button](#id06)
 
 
 
