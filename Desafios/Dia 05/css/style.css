@@ -1,0 +1,83 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.container{
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  flex-direction: row;
+}
+
+.item {
+  flex-grow: 1;
+  background-position: center;
+  background-size: cover;
+  filter: grayscale(100%);
+  position: relative;
+  list-style: none;
+  transition: all .7s ease-in-out;
+}
+
+.item:hover{
+  flex-grow: 10;
+  filter: grayscale(0%);
+}
+
+.item a{
+  width: 100%;
+  height: 100%;
+  display: flex;
+  position: absolute;
+  align-items: center;
+  justify-content: center;
+  text-decoration: none;
+}
+
+.text{
+  font-size: 0;
+  font-family: sans-serif;
+  font-weight: bold;
+  text-transform: uppercase;
+  color: #fff;
+  text-decoration: none;
+  transition: all .5s ease-in-out;
+}
+
+.item:hover .text{
+  font-size: 32px;
+  text-shadow: 2px 2px 12px black;
+}
+
+.primeiro{
+  background-image: url('../assets/Ferrari-812.jpg');
+}
+
+.segundo{
+  background-image: url('../assets/lamborghini-huracan.jpg');
+}
+
+.terceiro{
+  background-image: url('../assets/maclaren-620R.jpg');
+}
+
+.quarto{
+  background-image: url('../assets/bugatti-divo.jpg');
+}
+
+@media screen and (max-width: 768px) {
+  .container{
+    flex-direction: column;
+  }
+
+  .item:hover{
+    flex-grow: 3;
+  }
+
+  .text{
+    text-align: center;
+    font-size: 16px;
+  }
+}
