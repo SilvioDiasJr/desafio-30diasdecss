@@ -24,6 +24,7 @@
 * [Dia 04 - Card com efeito e glassmorphism](#id04)
 * [Dia 05 - Menu tela inteira e responsivo](#id05)
 * [Dia 06 - Toggle button](#id06)
+* [Dia 07 - Fantasminha flutuando](#id07)
 
 
 
@@ -68,7 +69,7 @@
 
 
 ##  Desafio dia 05 - Menu tela inteira e responsivo<a name="id05"></a>
-![Dia 04](https://github.com/SilvioDiasJr/desafio-30diasdecss/blob/master/Desafios/Dia%2005/menu-tela-inteira.gif)
+![Dia 05](https://github.com/SilvioDiasJr/desafio-30diasdecss/blob/master/Desafios/Dia%2005/menu-tela-inteira.gif)
 
 
 [Meu codigo](https://github.com/SilvioDiasJr/desafio-30diasdecss/tree/master/Desafios/Dia%2005)
@@ -78,11 +79,21 @@
 
 
 ##  Desafio dia 06 - Toggle button<a name="id06"></a>
-![Dia 04](https://github.com/SilvioDiasJr/desafio-30diasdecss/blob/master/Desafios/Dia%2006/checkbox-animado.gif)
+![Dia 06](https://github.com/SilvioDiasJr/desafio-30diasdecss/blob/master/Desafios/Dia%2006/checkbox-animado.gif)
 
 
 [Meu codigo](https://github.com/SilvioDiasJr/desafio-30diasdecss/tree/master/Desafios/Dia%2006)
 
 
 [Post LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:6764312795648401409/) 
+
+
+##  Desafio dia 07 - Fantasminha flutuando<a name="id07"></a>
+![Dia 07](https://github.com/SilvioDiasJr/desafio-30diasdecss/blob/master/Desafios/Dia%2007/ghost-floating.gif)
+
+
+[Meu codigo](https://github.com/SilvioDiasJr/desafio-30diasdecss/tree/master/Desafios/Dia%2007)
+
+
+[Post LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:6764664161340284928/) 
 
