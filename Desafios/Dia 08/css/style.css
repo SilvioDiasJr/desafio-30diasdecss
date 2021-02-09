@@ -1,0 +1,60 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+input[type="checkbox"]:checked ~ *{
+  filter: invert(1);
+}
+
+.container{
+  position: absolute;
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  background: #fff;
+
+  font-family: Roboto, Arial, Helvetica, sans-serif;
+}
+
+.container span {
+  position: absolute;
+  top: 15%;
+  left: 84%;
+  font-weight: 600;
+}
+
+.content{
+  width: 100%;
+  margin-top: 120px;
+}
+
+.content h1{
+  text-align: center;
+  font-size: 80px;
+}
+
+.content-grid{
+  display: flex;
+  justify-content: center;
+  flex-flow: row wrap;
+  grid-auto-columns: max-content;
+  column-gap: 30px;
+}
+
+.content-grid .content-card{
+  margin-top: 50px;
+  width: 300px;
+  height: auto;
+}
+
+.content-grid .content-card p{
+  text-align: justify;
+  font-size: 20px;
+}
+
+
