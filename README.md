@@ -25,6 +25,7 @@
 * [Dia 05 - Menu tela inteira e responsivo](#id05)
 * [Dia 06 - Toggle button](#id06)
 * [Dia 07 - Fantasminha flutuando](#id07)
+* [Dia 08 - Dark Mode](#id08)
 
 
 
@@ -96,4 +97,14 @@
 
 
 [Post LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:6764664161340284928/) 
+
+
+##  Desafio dia 08 - Dark Mode<a name="id08"></a>
+![Dia 08](https://github.com/SilvioDiasJr/desafio-30diasdecss/blob/master/Desafios/Dia%2008/dark-mode.gif)
+
+
+[Meu codigo](https://github.com/SilvioDiasJr/desafio-30diasdecss/tree/master/Desafios/Dia%2008)
+
+
+[Post LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:6765034201214394368/) 
 
