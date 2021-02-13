@@ -26,7 +26,8 @@
 * [Dia 07 - Fantasminha flutuando](#id07)
 * [Dia 08 - Dark Mode](#id08)
 * [Dia 09 - Botão Neon Animado](#id09)
-* [Dia 10 - Avaliação com estrelas](#id09)
+* [Dia 10 - Avaliação com estrelas](#id10)
+* [Dia 11 - Caixa de pesquisa com efeito hover](#id10)
 
 
 
@@ -121,11 +122,21 @@
 
 
 ##  Desafio dia 10 - Avaliação com estrelas<a name="id10"></a>
-![Dia 09](https://github.com/SilvioDiasJr/desafio-30diasdecss/blob/master/Desafios/Dia%2010/avalia%C3%A7%C3%A3o-estrelas.gif)
+![Dia 10](https://github.com/SilvioDiasJr/desafio-30diasdecss/blob/master/Desafios/Dia%2010/avalia%C3%A7%C3%A3o-estrelas.gif)
 
 
 [Meu codigo](https://github.com/SilvioDiasJr/desafio-30diasdecss/tree/master/Desafios/Dia%2010)
 
 
 [Post LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:6765731330719272960/) 
+
+
+##  Desafio dia 11 - Caixa de pesquisa com efeito hover<a name="id10"></a>
+![Dia 11](https://github.com/SilvioDiasJr/desafio-30diasdecss/blob/master/Desafios/Dia%2011/search.gif)
+
+
+[Meu codigo](https://github.com/SilvioDiasJr/desafio-30diasdecss/tree/master/Desafios/Dia%2011)
+
+
+[Post LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:6766143663895519232/) 
 
