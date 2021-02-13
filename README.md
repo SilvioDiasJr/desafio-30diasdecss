@@ -27,7 +27,8 @@
 * [Dia 08 - Dark Mode](#id08)
 * [Dia 09 - Botão Neon Animado](#id09)
 * [Dia 10 - Avaliação com estrelas](#id10)
-* [Dia 11 - Caixa de pesquisa com efeito hover](#id10)
+* [Dia 11 - Caixa de pesquisa com efeito hover](#id11)
+* [Dia 12 - Card com barra de progresso circular](#id12)
 
 
 
@@ -131,7 +132,7 @@
 [Post LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:6765731330719272960/) 
 
 
-##  Desafio dia 11 - Caixa de pesquisa com efeito hover<a name="id10"></a>
+##  Desafio dia 11 - Caixa de pesquisa com efeito hover<a name="id11"></a>
 ![Dia 11](https://github.com/SilvioDiasJr/desafio-30diasdecss/blob/master/Desafios/Dia%2011/search.gif)
 
 
@@ -139,4 +140,14 @@
 
 
 [Post LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:6766143663895519232/) 
+
+
+##  Desafio dia 12 - Card com barra de progresso circular<a name="id12"></a>
+![Dia 11](https://github.com/SilvioDiasJr/desafio-30diasdecss/blob/master/Desafios/Dia%2012/circular-progress-bar.gif)
+
+
+[Meu codigo](https://github.com/SilvioDiasJr/desafio-30diasdecss/tree/master/Desafios/Dia%2012)
+
+
+[Post LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:6766504335967825920/) 
 
