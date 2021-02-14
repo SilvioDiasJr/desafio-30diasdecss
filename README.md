@@ -29,6 +29,7 @@
 * [Dia 10 - Avaliação com estrelas](#id10)
 * [Dia 11 - Caixa de pesquisa com efeito hover](#id11)
 * [Dia 12 - Card com barra de progresso circular](#id12)
+* [Dia 13 - Slide show simples](#id13)
 
 
 
@@ -150,4 +151,14 @@
 
 
 [Post LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:6766504335967825920/) 
+
+
+##  Desafio dia 13 - Slide show simples<a name="id13"></a>
+![Dia 11](https://github.com/SilvioDiasJr/desafio-30diasdecss/blob/master/Desafios/Dia%2013/slide.gif)
+
+
+[Meu codigo](https://github.com/SilvioDiasJr/desafio-30diasdecss/tree/master/Desafios/Dia%2013)
+
+
+[Post LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:6766792939617189888/) 
 
