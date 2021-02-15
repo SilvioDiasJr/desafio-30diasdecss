@@ -30,6 +30,7 @@
 * [Dia 11 - Caixa de pesquisa com efeito hover](#id11)
 * [Dia 12 - Card com barra de progresso circular](#id12)
 * [Dia 13 - Slide show simples](#id13)
+* [Dia 14 - Texto de exibição animado](#id14)
 
 
 
@@ -161,4 +162,14 @@
 
 
 [Post LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:6766792939617189888/) 
+
+
+##  Desafio dia 14 - Texto de exibição animado<a name="id14"></a>
+![Dia 11](https://github.com/SilvioDiasJr/desafio-30diasdecss/blob/master/Desafios/Dia%2014/text-animado.gif)
+
+
+[Meu codigo](https://github.com/SilvioDiasJr/desafio-30diasdecss/tree/master/Desafios/Dia%2014)
+
+
+[Post LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:6767178161894498304/) 
 
