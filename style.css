@@ -174,4 +174,9 @@ html, body{
   .content-info .info-rules{
     width: 100%;
   }
+
+  .projects-list img{
+    height: auto;
+    object-fit: contain;
+  }
 }
