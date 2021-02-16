@@ -67,29 +67,37 @@ html, body{
 }
 
 .content h3{
+  font-size: 22px;
   text-align: center;
   color:#c04f4f;
   padding-bottom: 15px;
 }
 
 .content p, li{
+  font-size: 18px;
   color:  #b3b3b3;
 }
 
 .content-info{
   width: 100%;
-  display: grid;
-  grid-gap: 80px;
-  grid-template-columns: 1fr 1fr;
-  align-items: center;
+  display: flex;
   justify-content: center;
-  padding: 20px;
-
   border-bottom: 1px solid #353535;
 }
 
-.content-info .info-rules li{
-  text-align: justify;
+.content-info .info-about{
+  text-align: center;
+  width: 50%;
+  padding: 20px 100px 20px 50px;
+}
+
+.content-info .info-rules{
+  width: 50%;
+  padding: 20px 50px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
 }
 
 .content-projects {
@@ -114,22 +122,31 @@ html, body{
   color: #c04f4f;
 }
 
+.projects-list{
+  max-width: 100%;
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: center;
+}
+
 .projects-list h3{
   color: #fff;
 }
 
 .projects-list img{
-  width: 700px;
-  height: auto;
+  width: 100%;
+  height: 300px;
+  object-fit: fill;
 }
 
 .projects-list .project{
-  width: 100%;
+  max-width: 500px;
   height: 100%;
-  padding: 10px;
+  padding: 20px;
+  
 }
 
-@media(max-width: 768px){
+@media(max-width: 1060px){
   .container header{
 
     font-size: 20px;
@@ -145,13 +162,16 @@ html, body{
   }
 
   .content-info{
-    grid-template-columns: 1fr;
-    grid-gap: 20px;
+    flex-direction: column;
+    align-items: center;
   }
 
-  .projects-list img{
-    max-width: 320px;
-    height: auto;
+  .container .info-about{
+    width: 100%;
+    padding: 0vmax;
   }
 
+  .content-info .info-rules{
+    width: 100%;
+  }
 }
