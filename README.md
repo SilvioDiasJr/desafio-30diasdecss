@@ -33,6 +33,7 @@
 * [Dia 14 - Texto de exibição animado](#id14)
 * [Dia 15 - Card isométrico](#id15)
 * [Dia 16 - Checklist animado](#id16)
+* [Dia 17 - Texto animado](#id17)
 
 
 
@@ -194,4 +195,14 @@
 
 
 [Post LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:6767901248957104128/) 
+
+
+##  Desafio dia 17 - Texto animado<a name="id17"></a>
+![Dia 11](https://github.com/SilvioDiasJr/desafio-30diasdecss/blob/master/Desafios/Dia%2017/texto-animado.gif)
+
+
+[Meu codigo](https://github.com/SilvioDiasJr/desafio-30diasdecss/tree/master/Desafios/Dia%2017)
+
+
+[Post LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:6768244701091921920/) 
 
