@@ -149,7 +149,7 @@
 
 
 ##  Desafio dia 12 - Card com barra de progresso circular<a name="id12"></a>
-![Dia 11](https://github.com/SilvioDiasJr/desafio-30diasdecss/blob/master/Desafios/Dia%2012/circular-progress-bar.gif)
+![Dia 12](https://github.com/SilvioDiasJr/desafio-30diasdecss/blob/master/Desafios/Dia%2012/circular-progress-bar.gif)
 
 
 [Meu codigo](https://github.com/SilvioDiasJr/desafio-30diasdecss/tree/master/Desafios/Dia%2012)
@@ -159,7 +159,7 @@
 
 
 ##  Desafio dia 13 - Slide show simples<a name="id13"></a>
-![Dia 11](https://github.com/SilvioDiasJr/desafio-30diasdecss/blob/master/Desafios/Dia%2013/slide.gif)
+![Dia 13](https://github.com/SilvioDiasJr/desafio-30diasdecss/blob/master/Desafios/Dia%2013/slide.gif)
 
 
 [Meu codigo](https://github.com/SilvioDiasJr/desafio-30diasdecss/tree/master/Desafios/Dia%2013)
@@ -169,7 +169,7 @@
 
 
 ##  Desafio dia 14 - Texto de exibição animado<a name="id14"></a>
-![Dia 11](https://github.com/SilvioDiasJr/desafio-30diasdecss/blob/master/Desafios/Dia%2014/text-animado.gif)
+![Dia 14](https://github.com/SilvioDiasJr/desafio-30diasdecss/blob/master/Desafios/Dia%2014/text-animado.gif)
 
 
 [Meu codigo](https://github.com/SilvioDiasJr/desafio-30diasdecss/tree/master/Desafios/Dia%2014)
@@ -179,7 +179,7 @@
 
 
 ##  Desafio dia 15 - Card isométrico<a name="id15"></a>
-![Dia 11](https://github.com/SilvioDiasJr/desafio-30diasdecss/blob/master/Desafios/Dia%2015/card-isometric.gif)
+![Dia 15](https://github.com/SilvioDiasJr/desafio-30diasdecss/blob/master/Desafios/Dia%2015/card-isometric.gif)
 
 
 [Meu codigo](https://github.com/SilvioDiasJr/desafio-30diasdecss/tree/master/Desafios/Dia%2015)
@@ -189,7 +189,7 @@
 
 
 ##  Desafio dia 16 - Checklist animado<a name="id16"></a>
-![Dia 11](https://github.com/SilvioDiasJr/desafio-30diasdecss/blob/master/Desafios/Dia%2016/checklist.gif)
+![Dia 16](https://github.com/SilvioDiasJr/desafio-30diasdecss/blob/master/Desafios/Dia%2016/checklist.gif)
 
 
 [Meu codigo](https://github.com/SilvioDiasJr/desafio-30diasdecss/tree/master/Desafios/Dia%2016)
@@ -199,7 +199,7 @@
 
 
 ##  Desafio dia 17 - Texto animado<a name="id17"></a>
-![Dia 11](https://github.com/SilvioDiasJr/desafio-30diasdecss/blob/master/Desafios/Dia%2017/texto-animado.gif)
+![Dia 17](https://github.com/SilvioDiasJr/desafio-30diasdecss/blob/master/Desafios/Dia%2017/texto-animado.gif)
 
 
 [Meu codigo](https://github.com/SilvioDiasJr/desafio-30diasdecss/tree/master/Desafios/Dia%2017)
@@ -209,11 +209,21 @@
 
 
 ##  Desafio dia 18 - Botão tremendo com efeito hover<a name="id18"></a>
-![Dia 11](https://github.com/SilvioDiasJr/desafio-30diasdecss/blob/master/Desafios/Dia%2018/bot%C3%A3o-tremendo.gif)
+![Dia 18](https://github.com/SilvioDiasJr/desafio-30diasdecss/blob/master/Desafios/Dia%2018/bot%C3%A3o-tremendo.gif)
 
 
 [Meu codigo](https://github.com/SilvioDiasJr/desafio-30diasdecss/tree/master/Desafios/Dia%2018)
 
 
 [Post LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:6768608440643289088/) 
+
+
+##  Desafio dia 19 - Bordas com efeito de ondas<a name="id19"></a>
+![Dia 19](https://github.com/SilvioDiasJr/desafio-30diasdecss/blob/master/Desafios/Dia%2019/wave-div.gif)
+
+
+[Meu codigo](https://github.com/SilvioDiasJr/desafio-30diasdecss/tree/master/Desafios/Dia%2019)
+
+
+[Post LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:6769092568648040448/) 
 
