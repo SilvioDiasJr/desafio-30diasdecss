@@ -34,7 +34,9 @@
 * [Dia 15 - Card isométrico](#id15)
 * [Dia 16 - Checklist animado](#id16)
 * [Dia 17 - Texto animado](#id17)
-* [Dia 18 - Botão tremendo com efeito hover](#id17)
+* [Dia 18 - Botão tremendo com efeito hover](#id18)
+* [Dia 19 - Bordas com efeito de ondas](#id19)
+* [Dia 20 - Loading](#id20)
 
 
 
