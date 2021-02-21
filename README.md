@@ -227,3 +227,13 @@
 
 [Post LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:6769092568648040448/) 
 
+
+##  Desafio dia 20 - Loading<a name="id20"></a>
+![Dia 20](https://github.com/SilvioDiasJr/desafio-30diasdecss/blob/master/Desafios/Dia%2020/loading.gif)
+
+
+[Meu codigo](https://github.com/SilvioDiasJr/desafio-30diasdecss/tree/master/Desafios/Dia%2020)
+
+
+[Post LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:6769380814053498880/) 
+
