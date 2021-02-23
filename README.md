@@ -37,6 +37,7 @@
 * [Dia 18 - Botão tremendo com efeito hover](#id18)
 * [Dia 19 - Bordas com efeito de ondas](#id19)
 * [Dia 20 - Loading](#id20)
+* [Dia 21 - Texto flutuando](#id21)
 
 
 
@@ -238,4 +239,14 @@
 
 
 [Post LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:6769380814053498880/) 
+
+
+##  Desafio dia 21 - Texto flutuando<a name="id21"></a>
+![Dia 20](https://github.com/SilvioDiasJr/desafio-30diasdecss/blob/master/Desafios/Dia%2021/texto-flutuante.gif)
+
+
+[Meu codigo](https://github.com/SilvioDiasJr/desafio-30diasdecss/tree/master/Desafios/Dia%2021)
+
+
+[Post LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:6769792645305778176/) 
 
