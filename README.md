@@ -38,6 +38,7 @@
 * [Dia 19 - Bordas com efeito de ondas](#id19)
 * [Dia 20 - Loading](#id20)
 * [Dia 21 - Texto flutuando](#id21)
+* [Dia 22 - Contagem regressiva apenas com css](#id22)
 
 
 
@@ -249,4 +250,14 @@
 
 
 [Post LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:6769792645305778176/) 
+
+
+##  Desafio dia 22 - Contagem regressiva apenas com css<a name="id22"></a>
+![Dia 20](https://github.com/SilvioDiasJr/desafio-30diasdecss/blob/master/Desafios/Dia%2022/contagem.gif)
+
+
+[Meu codigo](https://github.com/SilvioDiasJr/desafio-30diasdecss/tree/master/Desafios/Dia%2022)
+
+
+[Post LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:6770175077733437440/) 
 
