@@ -39,6 +39,7 @@
 * [Dia 20 - Loading](#id20)
 * [Dia 21 - Texto flutuando](#id21)
 * [Dia 22 - Contagem regressiva apenas com css](#id22)
+* [Dia 23 - Texto fantasma](#id23)
 
 
 
