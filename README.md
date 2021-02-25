@@ -261,3 +261,13 @@
 
 [Post LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:6770175077733437440/) 
 
+
+##  Desafio dia 23 - Texto fantasma<a name="id23"></a>
+![Dia 20](https://github.com/SilvioDiasJr/desafio-30diasdecss/blob/master/Desafios/Dia%2023/ghost%20text.gif)
+
+
+[Meu codigo](https://github.com/SilvioDiasJr/desafio-30diasdecss/tree/master/Desafios/Dia%2023)
+
+
+[Post LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:6770541810839248896/) 
+
