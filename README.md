@@ -40,6 +40,7 @@
 * [Dia 21 - Texto flutuando](#id21)
 * [Dia 22 - Contagem regressiva apenas com css](#id22)
 * [Dia 23 - Texto fantasma](#id23)
+* [Dia 24 - Efeito dobradiça](#id23)
 
 
 
@@ -271,4 +272,14 @@
 
 
 [Post LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:6770541810839248896/) 
+
+
+##  Desafio dia 24 - Efeito dobradiça<a name="id24"></a>
+![Dia 24](https://github.com/SilvioDiasJr/desafio-30diasdecss/blob/master/Desafios/Dia%2024/hinge-animation.gif)
+
+
+[Meu codigo](https://github.com/SilvioDiasJr/desafio-30diasdecss/tree/master/Desafios/Dia%2024)
+
+
+[Post LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:6770898809649172480/) 
 
