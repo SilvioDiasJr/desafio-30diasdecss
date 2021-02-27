@@ -41,6 +41,7 @@
 * [Dia 22 - Contagem regressiva apenas com css](#id22)
 * [Dia 23 - Texto fantasma](#id23)
 * [Dia 24 - Efeito dobradiça](#id24)
+* [Dia 25 - Logo Apple animado](#id25)
 
 
 
@@ -282,4 +283,14 @@
 
 
 [Post LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:6770898809649172480/) 
+
+
+##  Desafio dia 25 - Logo Apple animado<a name="id25"></a>
+![Dia 25](https://github.com/SilvioDiasJr/desafio-30diasdecss/blob/master/Desafios/Dia%2025/logo-animado.gif)
+
+
+[Meu codigo](https://github.com/SilvioDiasJr/desafio-30diasdecss/tree/master/Desafios/Dia%2025)
+
+
+[Post LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:6771262249140031488/) 
 
