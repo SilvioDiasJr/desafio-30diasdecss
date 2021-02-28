@@ -42,6 +42,7 @@
 * [Dia 23 - Texto fantasma](#id23)
 * [Dia 24 - Efeito dobradiça](#id24)
 * [Dia 25 - Logo Apple animado](#id25)
+* [Dia 26 - Ícones isometricos](#id26)
 
 
 
@@ -293,4 +294,14 @@
 
 
 [Post LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:6771262249140031488/) 
+
+
+##  Desafio dia 26 - Ìcones isometricos<a name="id26"></a>
+![Dia 26](https://github.com/SilvioDiasJr/desafio-30diasdecss/blob/master/Desafios/Dia%2026/icons-isometric.gif)
+
+
+[Meu codigo](https://github.com/SilvioDiasJr/desafio-30diasdecss/tree/master/Desafios/Dia%2026)
+
+
+[Post LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:6771866913443217408/) 
 
