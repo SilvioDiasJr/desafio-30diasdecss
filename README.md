@@ -43,6 +43,7 @@
 * [Dia 24 - Efeito dobradiça](#id24)
 * [Dia 25 - Logo Apple animado](#id25)
 * [Dia 26 - Ícones isometricos](#id26)
+* [Dia 27 - Loading com barras](#id27)
 
 
 
@@ -304,4 +305,14 @@
 
 
 [Post LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:6771866913443217408/) 
+
+
+##  Desafio dia 27 - Loading com barras<a name="id27"></a>
+![Dia 27](https://github.com/SilvioDiasJr/desafio-30diasdecss/blob/master/Desafios/Dia%2027/loading-bar.gif)
+
+
+[Meu codigo](https://github.com/SilvioDiasJr/desafio-30diasdecss/tree/master/Desafios/Dia%2027)
+
+
+[Post LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:6772353885232218112/) 
 
