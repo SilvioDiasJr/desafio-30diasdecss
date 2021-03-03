@@ -1,0 +1,62 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html, body{
+  min-height: 100vh;
+  background-image: url('../fundo-de-fumaca.jpg');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  font-family: Roboto;
+  text-transform: uppercase;
+}
+
+.container{
+  width: 100%;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: rgba(255, 255, 255, 55%);
+}
+
+.glass-card{
+  width: 500px;
+  height: 250px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  padding: 25px 60px;
+  border-radius: 20px;
+  background: rgba(255, 255, 255, 15%);
+  backdrop-filter: blur(5px);
+}
+
+.glass-card header{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.glass-card header h1{
+  font-size: 14px;
+  font-weight: normal;
+}
+
+.glass-card header i{
+  font-size: 25px;
+}
+
+.glass-card main h1{
+  font-size: 18px;
+  line-height: 30px;
+}
+
+.glass-card main p{
+  font-size: 12px;
+}
