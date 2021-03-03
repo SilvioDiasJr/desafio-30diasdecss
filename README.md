@@ -44,6 +44,7 @@
 * [Dia 25 - Logo Apple animado](#id25)
 * [Dia 26 - Ícones isometricos](#id26)
 * [Dia 27 - Loading com barras](#id27)
+* [Dia 28 - Cartão de vidro](#id28)
 
 
 
@@ -315,4 +316,14 @@
 
 
 [Post LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:6772353885232218112/) 
+
+
+##  Desafio dia 28 - Cartão de vidro<a name="id28"></a>
+![Dia 28](https://github.com/SilvioDiasJr/desafio-30diasdecss/blob/master/Desafios/Dia%2028/cartao-vidro.png)
+
+
+[Meu codigo](https://github.com/SilvioDiasJr/desafio-30diasdecss/tree/master/Desafios/Dia%2028)
+
+
+[Post LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:6772695004449259521/) 
 
