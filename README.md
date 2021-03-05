@@ -45,6 +45,7 @@
 * [Dia 26 - Ícones isometricos](#id26)
 * [Dia 27 - Loading com barras](#id27)
 * [Dia 28 - Cartão de vidro](#id28)
+* [Dia 29 - Efeito hover para botões](#id29)
 
 
 
@@ -326,4 +327,14 @@
 
 
 [Post LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:6772695004449259521/) 
+
+
+##  Desafio dia 29 - Efeito hover para botões<a name="id29"></a>
+![Dia 29](https://github.com/SilvioDiasJr/desafio-30diasdecss/blob/master/Desafios/Dia%2029/hover-buttons.gif)
+
+
+[Meu codigo](https://github.com/SilvioDiasJr/desafio-30diasdecss/tree/master/Desafios/Dia%2029)
+
+
+[Post LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:6773424554586058752/) 
 
